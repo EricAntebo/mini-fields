@@ -28,5 +28,5 @@ def render_field(fields):
             colum = f"{colum} {field}" 
         
         print(colum)
-
+        print("fdgrhgjkl.öä")
 render_field(fields)
