@@ -25,7 +25,7 @@ def render_field(fields):
         
         for field in fields[colum_key]:
             
-            colum = f"{colum}{field}" 
+            colum = f"{colum} {field}" 
         
         print(colum)
 
